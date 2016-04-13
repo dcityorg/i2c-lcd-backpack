@@ -3,15 +3,15 @@
 <div style="text-align: center;">
 
 <div style="display: inline-block; margin-right: 5px;">
-<img  src="http://wht.io/wp-content/uploads/projects/i2c-lcd-backpack/lcd-backpack.jpg" alt="i2c lcd backpack" width="300" height="200" />
+<img  src="http://wht.io/wp-content/uploads/projects/i2c-lcd-backpack/i2c-lcd-backpack.jpg" alt="i2c lcd backpack" width="300" height="200" />
 </div>
 
 <div style="display: inline-block; margin-right: 5px;">
-<img  src="http://wht.io/wp-content/uploads/projects/i2c-lcd-backpack/lcd-and-backpack.jpg" alt="i2c lcd and backpack" width="300" height="200" />
+<img  src="http://wht.io/wp-content/uploads/projects/i2c-lcd-backpack/i2c-lcd-backpack-on-lcd.jpg" alt="i2c lcd and backpack" width="300" height="200" />
 </div>
 
 <div style="display: inline-block; margin-right: 5px;">
-<img  src="http://wht.io/wp-content/uploads/projects/i2c-lcd-backpack/lcd-and-text.jpg" alt="i2c lcd with text" width="300" height="200" />
+<img  src="http://wht.io/wp-content/uploads/projects/i2c-lcd-backpack/lcd-seeeduino.jpg" alt="i2c lcd with text" width="300" height="200" />
 </div>
 
 </div>
