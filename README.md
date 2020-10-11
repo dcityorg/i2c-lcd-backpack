@@ -2,13 +2,13 @@
 
 <div style="text-align: center;">
 <div style="display: inline-block; margin-right: 5px;">
-<img  src="https://www.dcity.org/dcity/wp-content/uploads/projects/i2c-lcd-backpack/lcd-seeeduino.jpg" alt="i2c lcd with text" width="300" height="200" />
+<a href="https://www.dcity.org/dcity/wp-content/uploads/i2c-lcd-with-blackboard.jpg"><img src="https://www.dcity.org/dcity/wp-content/uploads/i2c-lcd-with-blackboard-600x400.jpg" alt="" width="300" height=“200" class="alignnone size-medium wp-image-517" /></a>
 </div>
 <div style="display: inline-block; margin-right: 5px;">
-<img  src="https://www.dcity.org/dcity/wp-content/uploads/projects/i2c-lcd-backpack/i2c-lcd-backpack.jpg" alt="i2c lcd backpack" width="300" height="200" />
+<a href="https://www.dcity.org/dcity/wp-content/uploads/i2c-lcd-with-lcd.jpg"><img src="https://www.dcity.org/dcity/wp-content/uploads/i2c-lcd-with-lcd-600x400.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-496" /></a>
 </div>
 <div style="display: inline-block; margin-right: 5px;">
-<img  src="https://www.dcity.org/dcity/wp-content/uploads/projects/i2c-lcd-backpack/i2c-lcd-backpack-on-lcd.jpg" alt="i2c lcd and backpack" width="300" height="200" />
+<a href="https://www.dcity.org/dcity/wp-content/uploads/i2c-lcd.jpg"><img src="https://www.dcity.org/dcity/wp-content/uploads/i2c-lcd-600x400.jpg" alt="" width="300" height=“200" class="alignnone size-medium wp-image-517" /></a>
 </div>
 </div>
 
